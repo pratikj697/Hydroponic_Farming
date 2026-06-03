@@ -41,4 +41,6 @@ This is the Layout design:
 <img width="1200" height="1600" alt="PCB_Design" src="https://github.com/user-attachments/assets/2134a93f-d1e6-4db8-b4e8-63857fb053f4" />
 
 
+After Implementation:
 
+<img width="719" height="1600" alt="Project" src="https://github.com/user-attachments/assets/086d0e0b-c4c3-4a3d-a30a-adb15f93fc78" />
