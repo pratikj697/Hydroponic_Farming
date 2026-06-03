@@ -26,5 +26,12 @@ Project Results:
 1)High Water Efficiency: Saves up to 80% more water than normal soil farming by recycling the water loop.
 Proven Performance: Tested successfully by growing healthy Fenugreek plants over a 15-day cycle.
 
+This is the WorkFlow of the Project.
 <img width="1540" height="854" alt="Screenshot 2026-06-03 210343" src="https://github.com/user-attachments/assets/f7ae4a47-13d5-499d-98ed-93f75ade444e" />
+
+This is the Layout design 
+<img width="741" height="743" alt="Layout" src="https://github.com/user-attachments/assets/deea4db7-ef31-488a-bb2a-4c8d393ddab2" />
+<img width="1200" height="1600" alt="PCB_Design" src="https://github.com/user-attachments/assets/2134a93f-d1e6-4db8-b4e8-63857fb053f4" />
+
+
 
