@@ -1,9 +1,10 @@
 # Hydroponic_Farming
 
+Final Year Project — Electronics & Telecommunication Engineering  
+Vidyalankar Institute of Technology, Wadala, Mumbai
 
 Project Overview:
-This project is a Smart Hydroponic System. It allows plants to grow in water without any soil. It uses smart sensors to check plant health and sends all the data 
-to the cloud (AWS) so you can monitor your plants from anywhere.
+An automated hydroponics monitoring and control system using ESP8266 NodeMCU, multiple sensors, and AWS IoT Core. Sensor data is published to the cloud every 5 seconds via MQTT over TLS, and actuators (water pump, grow light) are controlled remotely through incoming MQTT commands.
 
 How It Works:
 Sensors continuously check the water's health, room temperature, and nutrient levels.The ESP8266 chip acts as the brain to collect this data.
